@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="pick_contact">Pick a Contact</string>
+    <string name="call">Call</string>
+    <string name="hint_call">Please pick a contact using the button below</string>
+</resources>
